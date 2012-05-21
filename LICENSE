@@ -1,6 +1,6 @@
-								Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+					  Modified Apache License
+                      Version 2.0.1, May 2012
+      http://github.com/philip-wernersbach/modified-apache-license
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -63,6 +63,16 @@
       on behalf of whom a Contribution has been received by Licensor and
       subsequently incorporated within the Work.
 
+      "Original Creator" shall mean the individual or Legal Entity who 
+      originally published the Work.
+
+      "Original License" shall mean the License under which the Original
+      Creator originally published the Work.
+
+      "Relicense" and "Relicensing" shall mean the act of publishing the
+      Source, Work, Derivative Works, and/or Contributions under different
+      terms than the Original License.
+
    2. Grant of Copyright License. Subject to the terms and conditions of
       this License, each Contributor hereby grants to You a perpetual,
       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
@@ -94,16 +104,13 @@
       (a) You must give any other recipients of the Work or
           Derivative Works a copy of this License; and
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
-
-      (c) You must retain, in the Source form of any Derivative Works
+      (b) You must retain, in the Source form of any Derivative Works
           that You distribute, all copyright, patent, trademark, and
           attribution notices from the Source form of the Work,
           excluding those notices that do not pertain to any part of
           the Derivative Works; and
 
-      (d) If the Work includes a "NOTICE" text file as part of its
+      (c) If the Work includes a "NOTICE" text file as part of its
           distribution, then any Derivative Works that You distribute must
           include a readable copy of the attribution notices contained
           within such NOTICE file, excluding those notices that do not
@@ -119,13 +126,6 @@
           or as an addendum to the NOTICE text from the Work, provided
           that such additional attribution notices cannot be construed
           as modifying the License.
-
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
 
    5. Submission of Contributions. Unless You explicitly state otherwise,
       any Contribution intentionally submitted for inclusion in the Work
@@ -173,11 +173,25 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
+  10. Transfer of Original Creator Status. The Original Creator may
+      transfer Original Creator status, and all rights and permissions 
+      thereof, to another individual or Legal Entity. After the transfer,
+      the receiver of the Original Creator status will become the 
+      Original Creator, and the transferrer of the Original Creator status
+      will become a Contributor.
+
+  11. Preservation and Modification of the Original License. The Source, Work, 
+      Derivative Works, and/or Contributions will always be Licensed under the 
+      same terms as the Original License, unless the Original Creator explicitly 
+      Relicenses the Source, Work, Derivative Works, and/or Contributions.
+      In such a case of Relicensing, the new License specified by the 
+      Original Creator will become the Original License.
+
    END OF TERMS AND CONDITIONS
 
-   APPENDIX: How to apply the Apache License to your work.
+   APPENDIX: How to apply the Modified Apache License to your work.
 
-      To apply the Apache License to your work, attach the following
+      To apply the Modified Apache License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets "[]"
       replaced with your own identifying information. (Don't include
       the brackets!)  The text should be enclosed in the appropriate
@@ -188,11 +202,11 @@
 
    Copyright [yyyy] [name of copyright owner]
 
-   Licensed under the Apache License, Version 2.0 (the "License");
+   Licensed under the Modified Apache License, Version 2.0.1 (the "License");
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+       http://github.com/philip-wernersbach/modified-apache-license
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
